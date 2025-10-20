@@ -1,3 +1,6 @@
+package 정보처리기사실기;
+
+/* java 25년 1회 */
 public class t14 {
     public static void main(String[] args) {
         int[] data = {3, 5, 8, 12, 17};

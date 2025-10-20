@@ -1,3 +1,6 @@
+package 정보처리기사실기;
+
+/* java 25년 2회 */
 public class t08 {
     public static class BO {
         public int v;

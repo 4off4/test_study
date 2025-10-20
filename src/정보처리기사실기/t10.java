@@ -1,5 +1,7 @@
+package 정보처리기사실기;
+
+/* java 23년 3회 */
 public class t10 {
-    /* java 23년 3회 */
     public class main{
         public static void main(String[] args) {
             A b = new B();

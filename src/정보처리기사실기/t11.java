@@ -1,3 +1,6 @@
+package 정보처리기사실기;
+
+/* java 23년 3회 */
 public class t11 {
 
     static class Person {
